@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jesse3333
 - 👀 I’m interested in data science, mechanical engineering, and modeling physical systems.
-- 🌱 I’m currently learning R and Git. 
+- 🌱 I’m currently learning dash and expanding my knowledge of python. 
 - 💞️ I’m looking to collaborate on interesting things :)
 - 📫 How to reach me ... 
 
